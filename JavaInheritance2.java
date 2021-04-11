@@ -16,7 +16,6 @@ Output Format
 You are not responsible for printing anything to stdout. Your add method must return the sum of its parameters.
 
 Sample Output
-
 The main method in the Solution class above should print the following:
 
 My superclass is: Arithmetic
